@@ -3312,6 +3312,63 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 93e0766cba0f21848b780be43f746b70, type: 3}
+--- !u!1001 &402929055
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1118109640702438, guid: ef7db236cea2aa241a3b79ccefa48ac5, type: 3}
+      propertyPath: m_Name
+      value: Armored_Car (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4904129358902812, guid: ef7db236cea2aa241a3b79ccefa48ac5, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 15.79
+      objectReference: {fileID: 0}
+    - target: {fileID: 4904129358902812, guid: ef7db236cea2aa241a3b79ccefa48ac5, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.27
+      objectReference: {fileID: 0}
+    - target: {fileID: 4904129358902812, guid: ef7db236cea2aa241a3b79ccefa48ac5, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 35.66027
+      objectReference: {fileID: 0}
+    - target: {fileID: 4904129358902812, guid: ef7db236cea2aa241a3b79ccefa48ac5, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4904129358902812, guid: ef7db236cea2aa241a3b79ccefa48ac5, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4904129358902812, guid: ef7db236cea2aa241a3b79ccefa48ac5, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4904129358902812, guid: ef7db236cea2aa241a3b79ccefa48ac5, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4904129358902812, guid: ef7db236cea2aa241a3b79ccefa48ac5, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4904129358902812, guid: ef7db236cea2aa241a3b79ccefa48ac5, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4904129358902812, guid: ef7db236cea2aa241a3b79ccefa48ac5, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ef7db236cea2aa241a3b79ccefa48ac5, type: 3}
 --- !u!1 &404093719
 GameObject:
   m_ObjectHideFlags: 0
@@ -9912,6 +9969,63 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 7744227009021259775, guid: 6ef27ab1946f9b142849e88ca2e5cd11, type: 3}
   m_PrefabInstance: {fileID: 1833581642}
   m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1245271595
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1118109640702438, guid: ef7db236cea2aa241a3b79ccefa48ac5, type: 3}
+      propertyPath: m_Name
+      value: Armored_Car
+      objectReference: {fileID: 0}
+    - target: {fileID: 4904129358902812, guid: ef7db236cea2aa241a3b79ccefa48ac5, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 12.21
+      objectReference: {fileID: 0}
+    - target: {fileID: 4904129358902812, guid: ef7db236cea2aa241a3b79ccefa48ac5, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.36
+      objectReference: {fileID: 0}
+    - target: {fileID: 4904129358902812, guid: ef7db236cea2aa241a3b79ccefa48ac5, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 35.66027
+      objectReference: {fileID: 0}
+    - target: {fileID: 4904129358902812, guid: ef7db236cea2aa241a3b79ccefa48ac5, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4904129358902812, guid: ef7db236cea2aa241a3b79ccefa48ac5, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4904129358902812, guid: ef7db236cea2aa241a3b79ccefa48ac5, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4904129358902812, guid: ef7db236cea2aa241a3b79ccefa48ac5, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4904129358902812, guid: ef7db236cea2aa241a3b79ccefa48ac5, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4904129358902812, guid: ef7db236cea2aa241a3b79ccefa48ac5, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4904129358902812, guid: ef7db236cea2aa241a3b79ccefa48ac5, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ef7db236cea2aa241a3b79ccefa48ac5, type: 3}
 --- !u!1 &1246128262
 GameObject:
   m_ObjectHideFlags: 0
@@ -16854,3 +16968,5 @@ SceneRoots:
   - {fileID: 1713192502}
   - {fileID: 395631069}
   - {fileID: 1717397813}
+  - {fileID: 1245271595}
+  - {fileID: 402929055}
