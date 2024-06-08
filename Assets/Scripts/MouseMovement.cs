@@ -2,40 +2,75 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class MouseMovement : MonoBehaviour
+public class PlayerMovement : MonoBehaviour
 {
-    public float mouseSensitivity = 500f;
+    private CharacterController controller;
+    public float speed = 12f;
+    public float gravity = -9.81f * 2;
+    public float jumpHeight = 3f;
 
-    float xRotation = 0f;
-    float yRotation = 0f;
+    public Transform groundCheck;
+    public float groundDistance = 0.4f;
+    public LayerMask groundMask;
 
-    public float topClamp = -90f;
-    public float bottomClamp = 90f;
+    Vector3 velocity;
 
-    // Start is called before the first frame update
+    bool isGrounded;
+    bool isMoving;
+
+    private Vector3 lastPosition = new Vector3(0f,0f,0f);
+
     void Start()
     {
-        // Locking the cursor to the middle of the screen and making it invisible
-        Cursor.lockState = CursorLockMode.Locked;
+        controller = GetComponent<CharacterController>();
     }
 
-    // Update is called once per frame
+   
     void Update()
     {
-        // Getting the mouse inputs with inversion for desired behavior
-        float mouseX = Input.GetAxis("Mouse X") * mouseSensitivity * Time.deltaTime;
-        float mouseY = Input.GetAxis("Mouse Y") * mouseSensitivity * Time.deltaTime;
+        //Ground check
+        isGrounded = Physics.CheckSphere(groundCheck.position, groundDistance, groundMask);
+        //Resseting the default velocity
+        if (isGrounded && velocity.y < 0)
+        {
+            velocity.y = -2f;
+        }
 
-        // Rotation around the x axis (Look up and down)
-        xRotation -= mouseY;
+        //Getting the inputs
+        float x = Input.GetAxis("Horizontal");
+        float z = Input.GetAxis("Vertical");
 
-        // Clamp the rotation
-        xRotation = Mathf.Clamp(xRotation, topClamp, bottomClamp);
+        //Creating the moving vecter
+        Vector3 move = transform.right * x + transform.forward * z;
 
-        // Rotation around the y axis (Look left and right)
-        yRotation += mouseX; // Use '+' for right-handed rotation
+        //Actually moving the player
+        controller.Move(move * speed * Time.deltaTime);
 
-        // Apply rotations to our transform
-        transform.localRotation = Quaternion.Euler(xRotation, yRotation, 0f);
+        //check if the player can jump
+        if (Input.GetButtonDown("Jump") && isGrounded)
+        {
+            //Actually jumping
+            velocity.y = Mathf.Sqrt(jumpHeight * -2f * gravity);
+        }
+
+        //Falling down
+        velocity.y += gravity * Time.deltaTime;
+
+        //Exectuting the jump
+        controller.Move(velocity * Time.deltaTime);
+
+        if (lastPosition != gameObject.transform.position && isGrounded == true)
+        {
+            isMoving = true;
+            //for later use
+        }
+        else
+        {
+            isMoving = false;
+        }
+
+        lastPosition = gameObject.transform.position;
+
+        /////////////////////
     }
 }
