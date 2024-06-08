@@ -138,7 +138,7 @@ GameObject:
   - component: {fileID: 15219864}
   - component: {fileID: 15219866}
   - component: {fileID: 15219865}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Plane009
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -284,6 +284,10 @@ PrefabInstance:
       value: Cargo Container 1 (5)
       objectReference: {fileID: 0}
     - target: {fileID: 4837790451374775813, guid: 66f05c54efd74ff44bea1e89717dd159, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4837790451374775813, guid: 66f05c54efd74ff44bea1e89717dd159, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -303,7 +307,7 @@ GameObject:
   - component: {fileID: 25871572}
   - component: {fileID: 25871574}
   - component: {fileID: 25871573}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Plane017
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -388,6 +392,10 @@ PrefabInstance:
       value: Tyre v1 (6)
       objectReference: {fileID: 0}
     - target: {fileID: 4462099909136100643, guid: b6f1f4c9cb48d604aa384bbdf70db7ff, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4462099909136100643, guid: b6f1f4c9cb48d604aa384bbdf70db7ff, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -451,7 +459,7 @@ GameObject:
   - component: {fileID: 37478755}
   - component: {fileID: 37478757}
   - component: {fileID: 37478756}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Fence004
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -534,6 +542,10 @@ PrefabInstance:
     - target: {fileID: 1354517252876951135, guid: 77115d3092491ff4db2c826e763380f2, type: 3}
       propertyPath: m_Name
       value: ind barrel 02 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1354517252876951135, guid: 77115d3092491ff4db2c826e763380f2, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 1354517252876951135, guid: 77115d3092491ff4db2c826e763380f2, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -655,6 +667,10 @@ PrefabInstance:
       value: Mesh4 (1)
       objectReference: {fileID: 0}
     - target: {fileID: 2232608963108227506, guid: e9c14f575319e264093f0b55b490a8c6, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 2232608963108227506, guid: e9c14f575319e264093f0b55b490a8c6, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -724,6 +740,10 @@ PrefabInstance:
       value: barricada (1)
       objectReference: {fileID: 0}
     - target: {fileID: 9084150713101855716, guid: 6ef27ab1946f9b142849e88ca2e5cd11, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 9084150713101855716, guid: 6ef27ab1946f9b142849e88ca2e5cd11, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -743,6 +763,10 @@ PrefabInstance:
     - target: {fileID: 2566127710829129050, guid: 7b905a349de325449a65c91a1569e235, type: 3}
       propertyPath: m_Name
       value: HescoBarrier (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2566127710829129050, guid: 7b905a349de325449a65c91a1569e235, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 2566127710829129050, guid: 7b905a349de325449a65c91a1569e235, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -818,7 +842,7 @@ GameObject:
   - component: {fileID: 66510134}
   - component: {fileID: 66510136}
   - component: {fileID: 66510135}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Object038
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -920,7 +944,7 @@ Transform:
   m_GameObject: {fileID: 77571653}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -111.04842, y: -80.66116, z: 32.85546}
+  m_LocalPosition: {x: -111.04842, y: -82.6, z: 32.85546}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -941,6 +965,10 @@ PrefabInstance:
     - target: {fileID: 2566127710829129050, guid: 7b905a349de325449a65c91a1569e235, type: 3}
       propertyPath: m_Name
       value: HescoBarrier (19)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2566127710829129050, guid: 7b905a349de325449a65c91a1569e235, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 2566127710829129050, guid: 7b905a349de325449a65c91a1569e235, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -1064,6 +1092,10 @@ PrefabInstance:
       value: FL Stand Leg low5
       objectReference: {fileID: 0}
     - target: {fileID: 7358166360434522428, guid: 8ee6af16f47c14548b1fe47554fbcfef, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 7358166360434522428, guid: 8ee6af16f47c14548b1fe47554fbcfef, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -1088,6 +1120,10 @@ PrefabInstance:
     - target: {fileID: 1354517252876951135, guid: 77115d3092491ff4db2c826e763380f2, type: 3}
       propertyPath: m_Name
       value: ind barrel 02 (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1354517252876951135, guid: 77115d3092491ff4db2c826e763380f2, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 1354517252876951135, guid: 77115d3092491ff4db2c826e763380f2, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -1158,7 +1194,7 @@ GameObject:
   - component: {fileID: 124216326}
   - component: {fileID: 124216328}
   - component: {fileID: 124216327}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Plane003
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1392,6 +1428,10 @@ PrefabInstance:
       value: Cargo Container 1 (3)
       objectReference: {fileID: 0}
     - target: {fileID: 4837790451374775813, guid: 66f05c54efd74ff44bea1e89717dd159, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4837790451374775813, guid: 66f05c54efd74ff44bea1e89717dd159, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -1411,6 +1451,10 @@ PrefabInstance:
     - target: {fileID: 5106992790821075623, guid: 68eac8237e869c2479f88f7fb0baf3f5, type: 3}
       propertyPath: m_Name
       value: Cargo Container 2 (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5106992790821075623, guid: 68eac8237e869c2479f88f7fb0baf3f5, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 5106992790821075623, guid: 68eac8237e869c2479f88f7fb0baf3f5, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -1493,7 +1537,7 @@ GameObject:
   - component: {fileID: 151923815}
   - component: {fileID: 151923817}
   - component: {fileID: 151923816}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Fence009
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1745,6 +1789,10 @@ PrefabInstance:
       value: Cargo Container 1 (4)
       objectReference: {fileID: 0}
     - target: {fileID: 4837790451374775813, guid: 66f05c54efd74ff44bea1e89717dd159, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4837790451374775813, guid: 66f05c54efd74ff44bea1e89717dd159, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -1764,6 +1812,10 @@ PrefabInstance:
     - target: {fileID: 4462099909136100643, guid: b6f1f4c9cb48d604aa384bbdf70db7ff, type: 3}
       propertyPath: m_Name
       value: Tyre v1 (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4462099909136100643, guid: b6f1f4c9cb48d604aa384bbdf70db7ff, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 4462099909136100643, guid: b6f1f4c9cb48d604aa384bbdf70db7ff, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -1839,7 +1891,7 @@ GameObject:
   - component: {fileID: 168930127}
   - component: {fileID: 168930129}
   - component: {fileID: 168930128}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Wood Crate B (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1932,6 +1984,10 @@ PrefabInstance:
     - target: {fileID: 4083621183856324642, guid: 0aa60fa20de93174a984be4da92f552c, type: 3}
       propertyPath: m_Name
       value: ind barrel 01
+      objectReference: {fileID: 0}
+    - target: {fileID: 4083621183856324642, guid: 0aa60fa20de93174a984be4da92f552c, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 4083621183856324642, guid: 0aa60fa20de93174a984be4da92f552c, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -2043,6 +2099,10 @@ PrefabInstance:
       value: Tyre (2)
       objectReference: {fileID: 0}
     - target: {fileID: 2273351054716342111, guid: 9107ef4d90eacf547a7f70c4cad738fb, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 2273351054716342111, guid: 9107ef4d90eacf547a7f70c4cad738fb, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -2062,7 +2122,7 @@ GameObject:
   - component: {fileID: 191135131}
   - component: {fileID: 191135133}
   - component: {fileID: 191135132}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Plane013
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2145,7 +2205,7 @@ GameObject:
   - component: {fileID: 195449038}
   - component: {fileID: 195449040}
   - component: {fileID: 195449039}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Plane010
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2228,6 +2288,10 @@ PrefabInstance:
     - target: {fileID: 2566127710829129050, guid: 7b905a349de325449a65c91a1569e235, type: 3}
       propertyPath: m_Name
       value: HescoBarrier (27)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2566127710829129050, guid: 7b905a349de325449a65c91a1569e235, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 2566127710829129050, guid: 7b905a349de325449a65c91a1569e235, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -2462,6 +2526,10 @@ PrefabInstance:
       value: Sand Bad V1 (1)
       objectReference: {fileID: 0}
     - target: {fileID: 3447354655541262701, guid: e0c0c4ae28e8be448b3851ce7ea656c9, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 3447354655541262701, guid: e0c0c4ae28e8be448b3851ce7ea656c9, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -2592,6 +2660,10 @@ PrefabInstance:
       value: Door001
       objectReference: {fileID: 0}
     - target: {fileID: 7213921320093638976, guid: b3825f0a1c07eb84d9091801f8b6a1fc, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 7213921320093638976, guid: b3825f0a1c07eb84d9091801f8b6a1fc, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -2616,6 +2688,10 @@ PrefabInstance:
     - target: {fileID: 2566127710829129050, guid: 7b905a349de325449a65c91a1569e235, type: 3}
       propertyPath: m_Name
       value: HescoBarrier (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2566127710829129050, guid: 7b905a349de325449a65c91a1569e235, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 2566127710829129050, guid: 7b905a349de325449a65c91a1569e235, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -2850,6 +2926,10 @@ PrefabInstance:
       value: Aset props storage M vidkbhz LOD4 (2)
       objectReference: {fileID: 0}
     - target: {fileID: 3737833378363404989, guid: 0a01b4c2610dd5b458b5533f12f7f5c0, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 3737833378363404989, guid: 0a01b4c2610dd5b458b5533f12f7f5c0, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -2995,7 +3075,7 @@ GameObject:
   - component: {fileID: 360317349}
   - component: {fileID: 360317351}
   - component: {fileID: 360317350}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cube081
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3084,6 +3164,10 @@ PrefabInstance:
     - target: {fileID: 2566127710829129050, guid: 7b905a349de325449a65c91a1569e235, type: 3}
       propertyPath: m_Name
       value: HescoBarrier (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2566127710829129050, guid: 7b905a349de325449a65c91a1569e235, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 2566127710829129050, guid: 7b905a349de325449a65c91a1569e235, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -3195,6 +3279,10 @@ PrefabInstance:
       value: Tyre v2 (1)
       objectReference: {fileID: 0}
     - target: {fileID: 5013935557180502932, guid: ee87fb827a741324bafda3fb5db31329, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 5013935557180502932, guid: ee87fb827a741324bafda3fb5db31329, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -3232,6 +3320,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 172515602e62fb746b5d573b38a5fe58, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  m_IsGlobal: 1
+  priority: 0
+  blendDistance: 0
+  weight: 1
+  sharedProfile: {fileID: 0}
 --- !u!4 &395631069
 Transform:
   m_ObjectHideFlags: 0
@@ -3258,6 +3351,10 @@ PrefabInstance:
     - target: {fileID: 2427259815931732000, guid: 93e0766cba0f21848b780be43f746b70, type: 3}
       propertyPath: m_Name
       value: Barrier Big (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2427259815931732000, guid: 93e0766cba0f21848b780be43f746b70, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 2427259815931732000, guid: 93e0766cba0f21848b780be43f746b70, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -3380,7 +3477,7 @@ GameObject:
   - component: {fileID: 404093720}
   - component: {fileID: 404093722}
   - component: {fileID: 404093721}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Grass Patch 01 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3509,6 +3606,10 @@ PrefabInstance:
       value: Lights Gen
       objectReference: {fileID: 0}
     - target: {fileID: 7771189984459858773, guid: 0d5a190fa2ec47b448b86372144791c9, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 7771189984459858773, guid: 0d5a190fa2ec47b448b86372144791c9, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -3533,7 +3634,7 @@ GameObject:
   - component: {fileID: 409073437}
   - component: {fileID: 409073439}
   - component: {fileID: 409073438}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Grass Patch 03 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3631,7 +3732,7 @@ GameObject:
   - component: {fileID: 449160427}
   - component: {fileID: 449160429}
   - component: {fileID: 449160428}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cube029
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3721,6 +3822,10 @@ PrefabInstance:
       value: ind barrel 01 (2)
       objectReference: {fileID: 0}
     - target: {fileID: 4083621183856324642, guid: 0aa60fa20de93174a984be4da92f552c, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4083621183856324642, guid: 0aa60fa20de93174a984be4da92f552c, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -3791,6 +3896,10 @@ PrefabInstance:
       value: HescoBarrier (8)
       objectReference: {fileID: 0}
     - target: {fileID: 2566127710829129050, guid: 7b905a349de325449a65c91a1569e235, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 2566127710829129050, guid: 7b905a349de325449a65c91a1569e235, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -3859,6 +3968,10 @@ PrefabInstance:
     - target: {fileID: 2566127710829129050, guid: 7b905a349de325449a65c91a1569e235, type: 3}
       propertyPath: m_Name
       value: HescoBarrier (18)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2566127710829129050, guid: 7b905a349de325449a65c91a1569e235, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 2566127710829129050, guid: 7b905a349de325449a65c91a1569e235, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -4017,7 +4130,7 @@ GameObject:
   - component: {fileID: 510750655}
   - component: {fileID: 510750657}
   - component: {fileID: 510750656}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cube001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4270,6 +4383,10 @@ PrefabInstance:
       value: Cargo_Container 1 (1)
       objectReference: {fileID: 0}
     - target: {fileID: 4837790451374775813, guid: 66f05c54efd74ff44bea1e89717dd159, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4837790451374775813, guid: 66f05c54efd74ff44bea1e89717dd159, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -4345,6 +4462,10 @@ PrefabInstance:
     - target: {fileID: 1694689450609271012, guid: d6be3aef87031d04296406f139ff2629, type: 3}
       propertyPath: m_Name
       value: Aset nature rock S vcljbb1iw 03 LOD4004
+      objectReference: {fileID: 0}
+    - target: {fileID: 1694689450609271012, guid: d6be3aef87031d04296406f139ff2629, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 1694689450609271012, guid: d6be3aef87031d04296406f139ff2629, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -4487,6 +4608,10 @@ PrefabInstance:
       value: Mesh4
       objectReference: {fileID: 0}
     - target: {fileID: 2232608963108227506, guid: e9c14f575319e264093f0b55b490a8c6, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 2232608963108227506, guid: e9c14f575319e264093f0b55b490a8c6, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -4552,6 +4677,10 @@ PrefabInstance:
       value: Tyre
       objectReference: {fileID: 0}
     - target: {fileID: 2273351054716342111, guid: 9107ef4d90eacf547a7f70c4cad738fb, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 2273351054716342111, guid: 9107ef4d90eacf547a7f70c4cad738fb, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -4576,6 +4705,10 @@ PrefabInstance:
     - target: {fileID: 4462099909136100643, guid: b6f1f4c9cb48d604aa384bbdf70db7ff, type: 3}
       propertyPath: m_Name
       value: Tyre v1 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4462099909136100643, guid: b6f1f4c9cb48d604aa384bbdf70db7ff, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 4462099909136100643, guid: b6f1f4c9cb48d604aa384bbdf70db7ff, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -4641,6 +4774,10 @@ PrefabInstance:
     - target: {fileID: 2566127710829129050, guid: 7b905a349de325449a65c91a1569e235, type: 3}
       propertyPath: m_Name
       value: HescoBarrier (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2566127710829129050, guid: 7b905a349de325449a65c91a1569e235, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 2566127710829129050, guid: 7b905a349de325449a65c91a1569e235, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -4711,7 +4848,7 @@ GameObject:
   - component: {fileID: 586434262}
   - component: {fileID: 586434264}
   - component: {fileID: 586434263}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Plane019
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4794,7 +4931,7 @@ GameObject:
   - component: {fileID: 594229760}
   - component: {fileID: 594229762}
   - component: {fileID: 594229761}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cube019
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4877,7 +5014,7 @@ GameObject:
   - component: {fileID: 595924999}
   - component: {fileID: 595925001}
   - component: {fileID: 595925000}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Plane018
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4967,6 +5104,10 @@ PrefabInstance:
       value: Cargo Container (5)
       objectReference: {fileID: 0}
     - target: {fileID: 6267825749664215762, guid: cf3113fcbc4dc8842b0ad044a83b9a12, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 6267825749664215762, guid: cf3113fcbc4dc8842b0ad044a83b9a12, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -5031,6 +5172,113 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cf3113fcbc4dc8842b0ad044a83b9a12, type: 3}
+--- !u!1 &612859315
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 612859316}
+  - component: {fileID: 612859319}
+  - component: {fileID: 612859318}
+  - component: {fileID: 612859317}
+  m_Layer: 0
+  m_Name: Body
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &612859316
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 612859315}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1.2, y: 1.8, z: 1.2}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 987983217}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!136 &612859317
+CapsuleCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 612859315}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Radius: 0.5000001
+  m_Height: 2
+  m_Direction: 1
+  m_Center: {x: 0.000000059604645, y: 0, z: -0.00000008940697}
+--- !u!23 &612859318
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 612859315}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!33 &612859319
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 612859315}
+  m_Mesh: {fileID: 10206, guid: 0000000000000000e000000000000000, type: 0}
 --- !u!1001 &625324226
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5042,6 +5290,10 @@ PrefabInstance:
     - target: {fileID: 2566127710829129050, guid: 7b905a349de325449a65c91a1569e235, type: 3}
       propertyPath: m_Name
       value: HescoBarrier (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2566127710829129050, guid: 7b905a349de325449a65c91a1569e235, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 2566127710829129050, guid: 7b905a349de325449a65c91a1569e235, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -5107,7 +5359,7 @@ GameObject:
   - component: {fileID: 626781459}
   - component: {fileID: 626781461}
   - component: {fileID: 626781460}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Grass Patch 01 (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5195,7 +5447,7 @@ GameObject:
   - component: {fileID: 627793248}
   - component: {fileID: 627793250}
   - component: {fileID: 627793249}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cube016
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5278,7 +5530,7 @@ GameObject:
   - component: {fileID: 638987105}
   - component: {fileID: 638987107}
   - component: {fileID: 638987106}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: FL Stand Leg low5005
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5361,7 +5613,7 @@ GameObject:
   - component: {fileID: 650310684}
   - component: {fileID: 650310686}
   - component: {fileID: 650310685}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cylinder002
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5453,7 +5705,8 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 676403909}
-  m_Layer: 0
+  - component: {fileID: 676403910}
+  m_Layer: 3
   m_Name: Env Structure 02
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5469,7 +5722,7 @@ Transform:
   m_GameObject: {fileID: 676403908}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: -1.9, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -5529,6 +5782,28 @@ Transform:
   - {fileID: 1161012666}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!64 &676403910
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 676403908}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 5
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 0}
 --- !u!1 &678684347
 GameObject:
   m_ObjectHideFlags: 0
@@ -5540,7 +5815,7 @@ GameObject:
   - component: {fileID: 678684348}
   - component: {fileID: 678684350}
   - component: {fileID: 678684349}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Grass Patch 03 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5623,6 +5898,10 @@ PrefabInstance:
     - target: {fileID: 5106992790821075623, guid: 68eac8237e869c2479f88f7fb0baf3f5, type: 3}
       propertyPath: m_Name
       value: Cargo Container 2 (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5106992790821075623, guid: 68eac8237e869c2479f88f7fb0baf3f5, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 5106992790821075623, guid: 68eac8237e869c2479f88f7fb0baf3f5, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -5892,7 +6171,7 @@ GameObject:
   - component: {fileID: 716575719}
   - component: {fileID: 716575721}
   - component: {fileID: 716575720}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Wood Crate A (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5975,7 +6254,7 @@ GameObject:
   - component: {fileID: 718694460}
   - component: {fileID: 718694462}
   - component: {fileID: 718694461}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cube026
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6189,7 +6468,7 @@ GameObject:
   - component: {fileID: 769446175}
   - component: {fileID: 769446177}
   - component: {fileID: 769446176}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cylinder003
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6273,7 +6552,7 @@ GameObject:
   - component: {fileID: 772809956}
   - component: {fileID: 772809955}
   - component: {fileID: 772809954}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Plane001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6388,7 +6667,7 @@ GameObject:
   - component: {fileID: 786861404}
   - component: {fileID: 786861406}
   - component: {fileID: 786861405}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Fence003
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6471,7 +6750,7 @@ GameObject:
   - component: {fileID: 790329925}
   - component: {fileID: 790329927}
   - component: {fileID: 790329926}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Grass Patch 03 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6651,6 +6930,10 @@ PrefabInstance:
       value: Tyre v1 (7)
       objectReference: {fileID: 0}
     - target: {fileID: 4462099909136100643, guid: b6f1f4c9cb48d604aa384bbdf70db7ff, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4462099909136100643, guid: b6f1f4c9cb48d604aa384bbdf70db7ff, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -6716,6 +6999,10 @@ PrefabInstance:
       value: ind barrel 02 (2)
       objectReference: {fileID: 0}
     - target: {fileID: 1354517252876951135, guid: 77115d3092491ff4db2c826e763380f2, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 1354517252876951135, guid: 77115d3092491ff4db2c826e763380f2, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -6779,7 +7066,7 @@ GameObject:
   - component: {fileID: 876727369}
   - component: {fileID: 876727371}
   - component: {fileID: 876727370}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Grass Patch 01 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6872,7 +7159,7 @@ GameObject:
   - component: {fileID: 887718798}
   - component: {fileID: 887718800}
   - component: {fileID: 887718799}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cube011
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6964,7 +7251,7 @@ GameObject:
   - component: {fileID: 918772206}
   - component: {fileID: 918772208}
   - component: {fileID: 918772207}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Grass Patch 01 (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7047,7 +7334,7 @@ GameObject:
   - component: {fileID: 927600378}
   - component: {fileID: 927600380}
   - component: {fileID: 927600379}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cylinder004
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7131,6 +7418,10 @@ PrefabInstance:
     - target: {fileID: 2427259815931732000, guid: 93e0766cba0f21848b780be43f746b70, type: 3}
       propertyPath: m_Name
       value: Barrier Big
+      objectReference: {fileID: 0}
+    - target: {fileID: 2427259815931732000, guid: 93e0766cba0f21848b780be43f746b70, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 6169528448451472270, guid: 93e0766cba0f21848b780be43f746b70, type: 3}
       propertyPath: m_RootOrder
@@ -7398,6 +7689,10 @@ PrefabInstance:
       value: HescoBarrier (16)
       objectReference: {fileID: 0}
     - target: {fileID: 2566127710829129050, guid: 7b905a349de325449a65c91a1569e235, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 2566127710829129050, guid: 7b905a349de325449a65c91a1569e235, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -7541,11 +7836,11 @@ Transform:
   m_GameObject: {fileID: 963194225}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 1, z: -10}
+  m_LocalPosition: {x: 0, y: 1.64, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 987983217}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &972722512
 PrefabInstance:
@@ -7558,6 +7853,10 @@ PrefabInstance:
     - target: {fileID: 2566127710829129050, guid: 7b905a349de325449a65c91a1569e235, type: 3}
       propertyPath: m_Name
       value: HescoBarrier (17)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2566127710829129050, guid: 7b905a349de325449a65c91a1569e235, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 2566127710829129050, guid: 7b905a349de325449a65c91a1569e235, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -7623,7 +7922,7 @@ GameObject:
   - component: {fileID: 979700250}
   - component: {fileID: 979700252}
   - component: {fileID: 979700251}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cube018
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7764,6 +8063,10 @@ PrefabInstance:
       value: Sand Bad
       objectReference: {fileID: 0}
     - target: {fileID: 8683056238420574261, guid: 055c12772f6ca4045a208aa8a17e188d, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 8683056238420574261, guid: 055c12772f6ca4045a208aa8a17e188d, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -7772,6 +8075,132 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 055c12772f6ca4045a208aa8a17e188d, type: 3}
+--- !u!1 &987983215
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 987983217}
+  - component: {fileID: 987983216}
+  - component: {fileID: 987983219}
+  - component: {fileID: 987983218}
+  - component: {fileID: 987983220}
+  m_Layer: 0
+  m_Name: Player
+  m_TagString: Player
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!143 &987983216
+CharacterController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 987983215}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Height: 3.7
+  m_Radius: 0.5
+  m_SlopeLimit: 45
+  m_StepOffset: 0.7
+  m_SkinWidth: 0.08
+  m_MinMoveDistance: 0.001
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!4 &987983217
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 987983215}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 15.2, y: 0.01, z: 39.72}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 612859316}
+  - {fileID: 963194228}
+  - {fileID: 1044294927}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &987983218
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 987983215}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 97bb99fb0d474b64797da8a70ad7ccbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speed: 12
+  gravity: -19.62
+  jumpHeight: 3
+  groundCheck: {fileID: 1044294927}
+  groundDistance: 0.4
+  groundMask:
+    serializedVersion: 2
+    m_Bits: 8
+--- !u!114 &987983219
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 987983215}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a97312e5f87f0940bb22de18ea0e33e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mouseSensitivity: 500
+  topClamp: -90
+  bottomClamp: 90
+--- !u!54 &987983220
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 987983215}
+  serializedVersion: 4
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_CenterOfMass: {x: 0, y: 0, z: 0}
+  m_InertiaTensor: {x: 1, y: 1, z: 1}
+  m_InertiaRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ImplicitCom: 1
+  m_ImplicitTensor: 1
+  m_UseGravity: 1
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!4 &988303073 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 6149976143019976805, guid: 7b905a349de325449a65c91a1569e235, type: 3}
@@ -7793,6 +8222,10 @@ PrefabInstance:
     - target: {fileID: 5106992790821075623, guid: 68eac8237e869c2479f88f7fb0baf3f5, type: 3}
       propertyPath: m_Name
       value: Cargo Container 2 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5106992790821075623, guid: 68eac8237e869c2479f88f7fb0baf3f5, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 5106992790821075623, guid: 68eac8237e869c2479f88f7fb0baf3f5, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -7870,7 +8303,7 @@ GameObject:
   - component: {fileID: 1023669713}
   - component: {fileID: 1023669715}
   - component: {fileID: 1023669714}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Plane027
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8011,6 +8444,10 @@ PrefabInstance:
       value: Aset props storage M vidkbhz LOD4
       objectReference: {fileID: 0}
     - target: {fileID: 3737833378363404989, guid: 0a01b4c2610dd5b458b5533f12f7f5c0, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 3737833378363404989, guid: 0a01b4c2610dd5b458b5533f12f7f5c0, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -8030,7 +8467,7 @@ GameObject:
   - component: {fileID: 1026729753}
   - component: {fileID: 1026729755}
   - component: {fileID: 1026729754}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cube003
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8113,7 +8550,7 @@ GameObject:
   - component: {fileID: 1027261421}
   - component: {fileID: 1027261423}
   - component: {fileID: 1027261422}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Wood Crate B (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8198,6 +8635,10 @@ PrefabInstance:
       value: HescoBarrier (13)
       objectReference: {fileID: 0}
     - target: {fileID: 2566127710829129050, guid: 7b905a349de325449a65c91a1569e235, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 2566127710829129050, guid: 7b905a349de325449a65c91a1569e235, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -8250,6 +8691,37 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7b905a349de325449a65c91a1569e235, type: 3}
+--- !u!1 &1044294926
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1044294927}
+  m_Layer: 0
+  m_Name: GroundCheck
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1044294927
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1044294926}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -3.3, y: -13.8, z: -17}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 987983217}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &1052631070 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 1581694604516558664, guid: 77115d3092491ff4db2c826e763380f2, type: 3}
@@ -8267,7 +8739,7 @@ GameObject:
   - component: {fileID: 1057870241}
   - component: {fileID: 1057870240}
   - component: {fileID: 1057870239}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Plane
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8372,7 +8844,7 @@ GameObject:
   - component: {fileID: 1066494188}
   - component: {fileID: 1066494190}
   - component: {fileID: 1066494189}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Wood Crate A (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8513,6 +8985,10 @@ PrefabInstance:
       value: Cargo Container 1 (8)
       objectReference: {fileID: 0}
     - target: {fileID: 4837790451374775813, guid: 66f05c54efd74ff44bea1e89717dd159, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4837790451374775813, guid: 66f05c54efd74ff44bea1e89717dd159, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -8576,6 +9052,10 @@ PrefabInstance:
     - target: {fileID: 5013935557180502932, guid: ee87fb827a741324bafda3fb5db31329, type: 3}
       propertyPath: m_Name
       value: Tyre v2 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5013935557180502932, guid: ee87fb827a741324bafda3fb5db31329, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 5013935557180502932, guid: ee87fb827a741324bafda3fb5db31329, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -8655,6 +9135,10 @@ PrefabInstance:
       value: Aset nature rock S vcljbb1iw 03 LOD4001
       objectReference: {fileID: 0}
     - target: {fileID: 6487590555099545618, guid: 15b5ac4244b7f9b4ea7ba903fd3272dd, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 6487590555099545618, guid: 15b5ac4244b7f9b4ea7ba903fd3272dd, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -8674,7 +9158,7 @@ GameObject:
   - component: {fileID: 1086186776}
   - component: {fileID: 1086186778}
   - component: {fileID: 1086186777}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: colon2 2colons and floor low002
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8759,6 +9243,10 @@ PrefabInstance:
       value: Cargo Container (1)
       objectReference: {fileID: 0}
     - target: {fileID: 6267825749664215762, guid: cf3113fcbc4dc8842b0ad044a83b9a12, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 6267825749664215762, guid: cf3113fcbc4dc8842b0ad044a83b9a12, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -8834,7 +9322,7 @@ GameObject:
   - component: {fileID: 1095329206}
   - component: {fileID: 1095329208}
   - component: {fileID: 1095329207}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Plane025
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8922,6 +9410,10 @@ PrefabInstance:
     - target: {fileID: 2566127710829129050, guid: 7b905a349de325449a65c91a1569e235, type: 3}
       propertyPath: m_Name
       value: HescoBarrier (28)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2566127710829129050, guid: 7b905a349de325449a65c91a1569e235, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 2566127710829129050, guid: 7b905a349de325449a65c91a1569e235, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -9057,7 +9549,7 @@ GameObject:
   - component: {fileID: 1140168448}
   - component: {fileID: 1140168450}
   - component: {fileID: 1140168449}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cube020
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9212,6 +9704,10 @@ PrefabInstance:
       value: Cargo Container (3)
       objectReference: {fileID: 0}
     - target: {fileID: 6267825749664215762, guid: cf3113fcbc4dc8842b0ad044a83b9a12, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 6267825749664215762, guid: cf3113fcbc4dc8842b0ad044a83b9a12, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -9345,6 +9841,10 @@ PrefabInstance:
       value: Aset nature rock S vcljbb1iw 03 LOD4007
       objectReference: {fileID: 0}
     - target: {fileID: 6183750190930174822, guid: d8cbffa6799fc324496eebbc2fc88902, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183750190930174822, guid: d8cbffa6799fc324496eebbc2fc88902, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -9369,6 +9869,10 @@ PrefabInstance:
     - target: {fileID: 2566127710829129050, guid: 7b905a349de325449a65c91a1569e235, type: 3}
       propertyPath: m_Name
       value: HescoBarrier (22)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2566127710829129050, guid: 7b905a349de325449a65c91a1569e235, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 2566127710829129050, guid: 7b905a349de325449a65c91a1569e235, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -9436,6 +9940,10 @@ PrefabInstance:
       value: ind barrel 02
       objectReference: {fileID: 0}
     - target: {fileID: 1354517252876951135, guid: 77115d3092491ff4db2c826e763380f2, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 1354517252876951135, guid: 77115d3092491ff4db2c826e763380f2, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -9499,7 +10007,7 @@ GameObject:
   - component: {fileID: 1168948435}
   - component: {fileID: 1168948437}
   - component: {fileID: 1168948436}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: colon2 2colons and floor low001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9641,6 +10149,10 @@ PrefabInstance:
       value: Aset nature rock S vcljbb1iw 03 LOD4005
       objectReference: {fileID: 0}
     - target: {fileID: 7177926217264705079, guid: 78875be65b296db42a23c8d50a1f07a4, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 7177926217264705079, guid: 78875be65b296db42a23c8d50a1f07a4, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -9665,7 +10177,7 @@ GameObject:
   - component: {fileID: 1177220308}
   - component: {fileID: 1177220310}
   - component: {fileID: 1177220309}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Plane005
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9794,6 +10306,10 @@ PrefabInstance:
       value: Tyre v2 (4)
       objectReference: {fileID: 0}
     - target: {fileID: 5013935557180502932, guid: ee87fb827a741324bafda3fb5db31329, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 5013935557180502932, guid: ee87fb827a741324bafda3fb5db31329, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -9813,6 +10329,10 @@ PrefabInstance:
     - target: {fileID: 6267825749664215762, guid: cf3113fcbc4dc8842b0ad044a83b9a12, type: 3}
       propertyPath: m_Name
       value: Cargo Container (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6267825749664215762, guid: cf3113fcbc4dc8842b0ad044a83b9a12, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 6267825749664215762, guid: cf3113fcbc4dc8842b0ad044a83b9a12, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -9905,6 +10425,10 @@ PrefabInstance:
     - target: {fileID: 3715380222403532225, guid: 5888cf6ce4eb0fc40bdef641fff3118c, type: 3}
       propertyPath: m_Name
       value: Fence
+      objectReference: {fileID: 0}
+    - target: {fileID: 3715380222403532225, guid: 5888cf6ce4eb0fc40bdef641fff3118c, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 3715380222403532225, guid: 5888cf6ce4eb0fc40bdef641fff3118c, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -10037,7 +10561,7 @@ GameObject:
   - component: {fileID: 1246128263}
   - component: {fileID: 1246128265}
   - component: {fileID: 1246128264}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cube017
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10120,6 +10644,10 @@ PrefabInstance:
     - target: {fileID: 4083621183856324642, guid: 0aa60fa20de93174a984be4da92f552c, type: 3}
       propertyPath: m_Name
       value: ind barrel 01 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4083621183856324642, guid: 0aa60fa20de93174a984be4da92f552c, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 4083621183856324642, guid: 0aa60fa20de93174a984be4da92f552c, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -10243,6 +10771,10 @@ PrefabInstance:
       value: Cargo Container 1 (6)
       objectReference: {fileID: 0}
     - target: {fileID: 4837790451374775813, guid: 66f05c54efd74ff44bea1e89717dd159, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4837790451374775813, guid: 66f05c54efd74ff44bea1e89717dd159, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -10272,7 +10804,7 @@ GameObject:
   - component: {fileID: 1268232683}
   - component: {fileID: 1268232685}
   - component: {fileID: 1268232684}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cube004
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10360,6 +10892,10 @@ PrefabInstance:
       value: HescoBarrier (23)
       objectReference: {fileID: 0}
     - target: {fileID: 2566127710829129050, guid: 7b905a349de325449a65c91a1569e235, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 2566127710829129050, guid: 7b905a349de325449a65c91a1569e235, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -10425,6 +10961,10 @@ PrefabInstance:
       value: HescoBarrier (15)
       objectReference: {fileID: 0}
     - target: {fileID: 2566127710829129050, guid: 7b905a349de325449a65c91a1569e235, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 2566127710829129050, guid: 7b905a349de325449a65c91a1569e235, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -10488,7 +11028,7 @@ GameObject:
   - component: {fileID: 1278263299}
   - component: {fileID: 1278263301}
   - component: {fileID: 1278263300}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Wood Crate B (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10638,6 +11178,10 @@ PrefabInstance:
       value: HescoBarrier (4)
       objectReference: {fileID: 0}
     - target: {fileID: 2566127710829129050, guid: 7b905a349de325449a65c91a1569e235, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 2566127710829129050, guid: 7b905a349de325449a65c91a1569e235, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -10701,7 +11245,7 @@ GameObject:
   - component: {fileID: 1293078770}
   - component: {fileID: 1293078772}
   - component: {fileID: 1293078771}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cube012
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10788,7 +11332,7 @@ GameObject:
   - component: {fileID: 1323131657}
   - component: {fileID: 1323131659}
   - component: {fileID: 1323131658}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Plane002
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10879,7 +11423,8 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1354053447}
-  m_Layer: 0
+  - component: {fileID: 1354053448}
+  m_Layer: 3
   m_Name: All Props
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10895,7 +11440,7 @@ Transform:
   m_GameObject: {fileID: 1354053446}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 65.61, y: 0, z: 17.53}
+  m_LocalPosition: {x: 65.61, y: -1.4, z: 17.53}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -11004,6 +11549,28 @@ Transform:
   - {fileID: 1150665847}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!64 &1354053448
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1354053446}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 5
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 0}
 --- !u!1 &1364150532
 GameObject:
   m_ObjectHideFlags: 0
@@ -11015,7 +11582,7 @@ GameObject:
   - component: {fileID: 1364150533}
   - component: {fileID: 1364150535}
   - component: {fileID: 1364150534}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Wood Crate B (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11098,6 +11665,10 @@ PrefabInstance:
     - target: {fileID: 1354517252876951135, guid: 77115d3092491ff4db2c826e763380f2, type: 3}
       propertyPath: m_Name
       value: ind barrel 02 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1354517252876951135, guid: 77115d3092491ff4db2c826e763380f2, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 1354517252876951135, guid: 77115d3092491ff4db2c826e763380f2, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -11221,6 +11792,10 @@ PrefabInstance:
       value: Aset props storage M vidkbhz LOD4 (1)
       objectReference: {fileID: 0}
     - target: {fileID: 3737833378363404989, guid: 0a01b4c2610dd5b458b5533f12f7f5c0, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 3737833378363404989, guid: 0a01b4c2610dd5b458b5533f12f7f5c0, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -11245,7 +11820,7 @@ GameObject:
   - component: {fileID: 1381489113}
   - component: {fileID: 1381489115}
   - component: {fileID: 1381489114}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Wood Crate A (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11330,6 +11905,10 @@ PrefabInstance:
       value: Tyre v1 (10)
       objectReference: {fileID: 0}
     - target: {fileID: 4462099909136100643, guid: b6f1f4c9cb48d604aa384bbdf70db7ff, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4462099909136100643, guid: b6f1f4c9cb48d604aa384bbdf70db7ff, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -11393,7 +11972,7 @@ GameObject:
   - component: {fileID: 1451475778}
   - component: {fileID: 1451475780}
   - component: {fileID: 1451475779}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Wood Crate A (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11478,6 +12057,10 @@ PrefabInstance:
       value: Tyre v1 (9)
       objectReference: {fileID: 0}
     - target: {fileID: 4462099909136100643, guid: b6f1f4c9cb48d604aa384bbdf70db7ff, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4462099909136100643, guid: b6f1f4c9cb48d604aa384bbdf70db7ff, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -11541,7 +12124,7 @@ GameObject:
   - component: {fileID: 1469303814}
   - component: {fileID: 1469303816}
   - component: {fileID: 1469303815}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Plane008
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11692,6 +12275,10 @@ PrefabInstance:
       value: Cargo Container 1 (7)
       objectReference: {fileID: 0}
     - target: {fileID: 4837790451374775813, guid: 66f05c54efd74ff44bea1e89717dd159, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4837790451374775813, guid: 66f05c54efd74ff44bea1e89717dd159, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -11711,6 +12298,10 @@ PrefabInstance:
     - target: {fileID: 2427259815931732000, guid: 93e0766cba0f21848b780be43f746b70, type: 3}
       propertyPath: m_Name
       value: Barrier Big (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2427259815931732000, guid: 93e0766cba0f21848b780be43f746b70, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 2427259815931732000, guid: 93e0766cba0f21848b780be43f746b70, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -11838,6 +12429,10 @@ PrefabInstance:
       value: Cargo Container 1
       objectReference: {fileID: 0}
     - target: {fileID: 4837790451374775813, guid: 66f05c54efd74ff44bea1e89717dd159, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4837790451374775813, guid: 66f05c54efd74ff44bea1e89717dd159, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -11862,7 +12457,7 @@ GameObject:
   - component: {fileID: 1490978276}
   - component: {fileID: 1490978278}
   - component: {fileID: 1490978277}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Fence007
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11947,6 +12542,10 @@ PrefabInstance:
       value: HescoBarrier
       objectReference: {fileID: 0}
     - target: {fileID: 2566127710829129050, guid: 7b905a349de325449a65c91a1569e235, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 2566127710829129050, guid: 7b905a349de325449a65c91a1569e235, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -12010,6 +12609,10 @@ PrefabInstance:
     - target: {fileID: 5106992790821075623, guid: 68eac8237e869c2479f88f7fb0baf3f5, type: 3}
       propertyPath: m_Name
       value: Cargo Container 2 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5106992790821075623, guid: 68eac8237e869c2479f88f7fb0baf3f5, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 5106992790821075623, guid: 68eac8237e869c2479f88f7fb0baf3f5, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -12089,6 +12692,10 @@ PrefabInstance:
       value: Tyre v1 (1)
       objectReference: {fileID: 0}
     - target: {fileID: 4462099909136100643, guid: b6f1f4c9cb48d604aa384bbdf70db7ff, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4462099909136100643, guid: b6f1f4c9cb48d604aa384bbdf70db7ff, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -12152,6 +12759,10 @@ PrefabInstance:
     - target: {fileID: 3350812375357825822, guid: 198702e58cff9104293f2356c9de0c36, type: 3}
       propertyPath: m_Name
       value: Aset nature rock S vcljbb1iw 03 LOD4003
+      objectReference: {fileID: 0}
+    - target: {fileID: 3350812375357825822, guid: 198702e58cff9104293f2356c9de0c36, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 3350812375357825822, guid: 198702e58cff9104293f2356c9de0c36, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -12246,6 +12857,10 @@ PrefabInstance:
       value: Wood Crate B
       objectReference: {fileID: 0}
     - target: {fileID: 1293916803407143577, guid: 7dbca615a1d3ea84785f096e484026a5, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 1293916803407143577, guid: 7dbca615a1d3ea84785f096e484026a5, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -12318,6 +12933,10 @@ PrefabInstance:
       value: Wood Crate A
       objectReference: {fileID: 0}
     - target: {fileID: 5811913479744799216, guid: 7dbca615a1d3ea84785f096e484026a5, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 5811913479744799216, guid: 7dbca615a1d3ea84785f096e484026a5, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -12368,6 +12987,10 @@ PrefabInstance:
     - target: {fileID: 8014884034904384758, guid: 7dbca615a1d3ea84785f096e484026a5, type: 3}
       propertyPath: m_Name
       value: Crate Boxes
+      objectReference: {fileID: 0}
+    - target: {fileID: 8014884034904384758, guid: 7dbca615a1d3ea84785f096e484026a5, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 8014884034904384758, guid: 7dbca615a1d3ea84785f096e484026a5, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -12462,6 +13085,10 @@ PrefabInstance:
       value: Tyre v2 (5)
       objectReference: {fileID: 0}
     - target: {fileID: 5013935557180502932, guid: ee87fb827a741324bafda3fb5db31329, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 5013935557180502932, guid: ee87fb827a741324bafda3fb5db31329, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -12481,6 +13108,10 @@ PrefabInstance:
     - target: {fileID: 2566127710829129050, guid: 7b905a349de325449a65c91a1569e235, type: 3}
       propertyPath: m_Name
       value: HescoBarrier (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2566127710829129050, guid: 7b905a349de325449a65c91a1569e235, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 2566127710829129050, guid: 7b905a349de325449a65c91a1569e235, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -12546,7 +13177,7 @@ GameObject:
   - component: {fileID: 1587617093}
   - component: {fileID: 1587617095}
   - component: {fileID: 1587617094}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Grass Patch 01 (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12634,7 +13265,7 @@ GameObject:
   - component: {fileID: 1592096309}
   - component: {fileID: 1592096311}
   - component: {fileID: 1592096310}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cube040
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12717,7 +13348,7 @@ GameObject:
   - component: {fileID: 1597320397}
   - component: {fileID: 1597320399}
   - component: {fileID: 1597320398}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cube013
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12800,7 +13431,7 @@ GameObject:
   - component: {fileID: 1601696056}
   - component: {fileID: 1601696058}
   - component: {fileID: 1601696057}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cube028
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13003,7 +13634,7 @@ GameObject:
   - component: {fileID: 1650243195}
   - component: {fileID: 1650243197}
   - component: {fileID: 1650243196}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Grass Patch 01 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13093,6 +13724,10 @@ PrefabInstance:
       value: Tyre v1 (2)
       objectReference: {fileID: 0}
     - target: {fileID: 4462099909136100643, guid: b6f1f4c9cb48d604aa384bbdf70db7ff, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4462099909136100643, guid: b6f1f4c9cb48d604aa384bbdf70db7ff, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -13156,7 +13791,7 @@ GameObject:
   - component: {fileID: 1694362892}
   - component: {fileID: 1694362894}
   - component: {fileID: 1694362893}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Fence001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13284,6 +13919,10 @@ PrefabInstance:
       value: HescoBarrier (24)
       objectReference: {fileID: 0}
     - target: {fileID: 2566127710829129050, guid: 7b905a349de325449a65c91a1569e235, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 2566127710829129050, guid: 7b905a349de325449a65c91a1569e235, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -13347,7 +13986,7 @@ GameObject:
   - component: {fileID: 1719434520}
   - component: {fileID: 1719434522}
   - component: {fileID: 1719434521}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cube002
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13476,6 +14115,10 @@ PrefabInstance:
       value: Tyre (1)
       objectReference: {fileID: 0}
     - target: {fileID: 2273351054716342111, guid: 9107ef4d90eacf547a7f70c4cad738fb, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 2273351054716342111, guid: 9107ef4d90eacf547a7f70c4cad738fb, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -13495,6 +14138,10 @@ PrefabInstance:
     - target: {fileID: 1354517252876951135, guid: 77115d3092491ff4db2c826e763380f2, type: 3}
       propertyPath: m_Name
       value: ind barrel 02 (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1354517252876951135, guid: 77115d3092491ff4db2c826e763380f2, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 1354517252876951135, guid: 77115d3092491ff4db2c826e763380f2, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -13560,6 +14207,10 @@ PrefabInstance:
     - target: {fileID: 2566127710829129050, guid: 7b905a349de325449a65c91a1569e235, type: 3}
       propertyPath: m_Name
       value: HescoBarrier (14)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2566127710829129050, guid: 7b905a349de325449a65c91a1569e235, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 2566127710829129050, guid: 7b905a349de325449a65c91a1569e235, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -13683,6 +14334,10 @@ PrefabInstance:
       value: Cargo Container 1 (9)
       objectReference: {fileID: 0}
     - target: {fileID: 4837790451374775813, guid: 66f05c54efd74ff44bea1e89717dd159, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4837790451374775813, guid: 66f05c54efd74ff44bea1e89717dd159, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -13702,6 +14357,10 @@ PrefabInstance:
     - target: {fileID: 2566127710829129050, guid: 7b905a349de325449a65c91a1569e235, type: 3}
       propertyPath: m_Name
       value: HescoBarrier (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2566127710829129050, guid: 7b905a349de325449a65c91a1569e235, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 2566127710829129050, guid: 7b905a349de325449a65c91a1569e235, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -13777,7 +14436,7 @@ GameObject:
   - component: {fileID: 1755284860}
   - component: {fileID: 1755284862}
   - component: {fileID: 1755284861}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cube
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13921,6 +14580,10 @@ PrefabInstance:
       value: Lights Gen (1)
       objectReference: {fileID: 0}
     - target: {fileID: 7771189984459858773, guid: 0d5a190fa2ec47b448b86372144791c9, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 7771189984459858773, guid: 0d5a190fa2ec47b448b86372144791c9, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -13940,7 +14603,7 @@ GameObject:
   - component: {fileID: 1789383231}
   - component: {fileID: 1789383233}
   - component: {fileID: 1789383232}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Fence
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14131,6 +14794,10 @@ PrefabInstance:
       value: HescoBarrier (25)
       objectReference: {fileID: 0}
     - target: {fileID: 2566127710829129050, guid: 7b905a349de325449a65c91a1569e235, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 2566127710829129050, guid: 7b905a349de325449a65c91a1569e235, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -14252,6 +14919,10 @@ PrefabInstance:
       value: Sand Bad V1
       objectReference: {fileID: 0}
     - target: {fileID: 3447354655541262701, guid: e0c0c4ae28e8be448b3851ce7ea656c9, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 3447354655541262701, guid: e0c0c4ae28e8be448b3851ce7ea656c9, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -14344,6 +15015,10 @@ PrefabInstance:
       value: Cargo Container 1 (2)
       objectReference: {fileID: 0}
     - target: {fileID: 4837790451374775813, guid: 66f05c54efd74ff44bea1e89717dd159, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4837790451374775813, guid: 66f05c54efd74ff44bea1e89717dd159, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -14368,6 +15043,10 @@ PrefabInstance:
     - target: {fileID: 2566127710829129050, guid: 7b905a349de325449a65c91a1569e235, type: 3}
       propertyPath: m_Name
       value: HescoBarrier (21)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2566127710829129050, guid: 7b905a349de325449a65c91a1569e235, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 2566127710829129050, guid: 7b905a349de325449a65c91a1569e235, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -14483,6 +15162,10 @@ PrefabInstance:
       value: barricada
       objectReference: {fileID: 0}
     - target: {fileID: 9084150713101855716, guid: 6ef27ab1946f9b142849e88ca2e5cd11, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 9084150713101855716, guid: 6ef27ab1946f9b142849e88ca2e5cd11, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -14502,7 +15185,7 @@ GameObject:
   - component: {fileID: 1844769977}
   - component: {fileID: 1844769979}
   - component: {fileID: 1844769978}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Fence006
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14587,6 +15270,10 @@ PrefabInstance:
       value: Cargo Container
       objectReference: {fileID: 0}
     - target: {fileID: 6267825749664215762, guid: cf3113fcbc4dc8842b0ad044a83b9a12, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 6267825749664215762, guid: cf3113fcbc4dc8842b0ad044a83b9a12, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -14669,6 +15356,10 @@ PrefabInstance:
       value: HescoBarrier (9)
       objectReference: {fileID: 0}
     - target: {fileID: 2566127710829129050, guid: 7b905a349de325449a65c91a1569e235, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 2566127710829129050, guid: 7b905a349de325449a65c91a1569e235, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -14737,7 +15428,7 @@ GameObject:
   - component: {fileID: 1865819104}
   - component: {fileID: 1865819106}
   - component: {fileID: 1865819105}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cube031
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14822,6 +15513,10 @@ PrefabInstance:
       value: HescoBarrier (5)
       objectReference: {fileID: 0}
     - target: {fileID: 2566127710829129050, guid: 7b905a349de325449a65c91a1569e235, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 2566127710829129050, guid: 7b905a349de325449a65c91a1569e235, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -14892,6 +15587,10 @@ PrefabInstance:
       value: ind barrel 02 (5)
       objectReference: {fileID: 0}
     - target: {fileID: 1354517252876951135, guid: 77115d3092491ff4db2c826e763380f2, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 1354517252876951135, guid: 77115d3092491ff4db2c826e763380f2, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -14955,7 +15654,7 @@ GameObject:
   - component: {fileID: 1914762464}
   - component: {fileID: 1914762466}
   - component: {fileID: 1914762465}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cylinder001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15040,6 +15739,10 @@ PrefabInstance:
       value: Container Room (1)
       objectReference: {fileID: 0}
     - target: {fileID: 1289581695264601125, guid: 3b319669f10ebfd47922d86db525a270, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 1289581695264601125, guid: 3b319669f10ebfd47922d86db525a270, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
@@ -15108,7 +15811,7 @@ GameObject:
   - component: {fileID: 1939582079}
   - component: {fileID: 1939582081}
   - component: {fileID: 1939582080}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Grass Patch 01 (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15237,6 +15940,10 @@ PrefabInstance:
       value: Tyre v2 (2)
       objectReference: {fileID: 0}
     - target: {fileID: 5013935557180502932, guid: ee87fb827a741324bafda3fb5db31329, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 5013935557180502932, guid: ee87fb827a741324bafda3fb5db31329, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -15256,7 +15963,7 @@ GameObject:
   - component: {fileID: 1948294758}
   - component: {fileID: 1948294760}
   - component: {fileID: 1948294759}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cube021
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15339,7 +16046,7 @@ GameObject:
   - component: {fileID: 1948484921}
   - component: {fileID: 1948484923}
   - component: {fileID: 1948484922}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Grass Patch 01 (8)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15574,6 +16281,10 @@ PrefabInstance:
       value: Aset nature rock S vcljbb1iw 03 LOD4002
       objectReference: {fileID: 0}
     - target: {fileID: 5546941351163354706, guid: c88bb6be0c0ce444b82afc9e62549e00, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 5546941351163354706, guid: c88bb6be0c0ce444b82afc9e62549e00, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -15593,6 +16304,10 @@ PrefabInstance:
     - target: {fileID: 4462099909136100643, guid: b6f1f4c9cb48d604aa384bbdf70db7ff, type: 3}
       propertyPath: m_Name
       value: Tyre v1 (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4462099909136100643, guid: b6f1f4c9cb48d604aa384bbdf70db7ff, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 4462099909136100643, guid: b6f1f4c9cb48d604aa384bbdf70db7ff, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -15658,7 +16373,7 @@ GameObject:
   - component: {fileID: 2009085082}
   - component: {fileID: 2009085084}
   - component: {fileID: 2009085083}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Wood Crate A (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15741,6 +16456,10 @@ PrefabInstance:
     - target: {fileID: 2566127710829129050, guid: 7b905a349de325449a65c91a1569e235, type: 3}
       propertyPath: m_Name
       value: HescoBarrier (26)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2566127710829129050, guid: 7b905a349de325449a65c91a1569e235, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 2566127710829129050, guid: 7b905a349de325449a65c91a1569e235, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -15879,6 +16598,10 @@ PrefabInstance:
       value: Aset nature rock S vcljbb1iw 03 LOD4006
       objectReference: {fileID: 0}
     - target: {fileID: 8350489923843204234, guid: 5425073db7ea25a4ca0ff369a47c733c, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 8350489923843204234, guid: 5425073db7ea25a4ca0ff369a47c733c, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -15898,6 +16621,10 @@ PrefabInstance:
     - target: {fileID: 4462099909136100643, guid: b6f1f4c9cb48d604aa384bbdf70db7ff, type: 3}
       propertyPath: m_Name
       value: Tyre v1 (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4462099909136100643, guid: b6f1f4c9cb48d604aa384bbdf70db7ff, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 4462099909136100643, guid: b6f1f4c9cb48d604aa384bbdf70db7ff, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -15963,7 +16690,7 @@ GameObject:
   - component: {fileID: 2058260302}
   - component: {fileID: 2058260304}
   - component: {fileID: 2058260303}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Fence005
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16212,6 +16939,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Container Room
       objectReference: {fileID: 0}
+    - target: {fileID: 5395770298571354402, guid: 7e90445e8936dc54ca3b8fd600c10277, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -16300,6 +17031,10 @@ PrefabInstance:
       value: Grass Patch 03
       objectReference: {fileID: 0}
     - target: {fileID: 1795138874848568137, guid: d6ab075a71f191447bdee4ec5b3aea47, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 1795138874848568137, guid: d6ab075a71f191447bdee4ec5b3aea47, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -16350,6 +17085,10 @@ PrefabInstance:
     - target: {fileID: 5624633222431568294, guid: d6ab075a71f191447bdee4ec5b3aea47, type: 3}
       propertyPath: m_Name
       value: Grass Patch 02
+      objectReference: {fileID: 0}
+    - target: {fileID: 5624633222431568294, guid: d6ab075a71f191447bdee4ec5b3aea47, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 5624633222431568294, guid: d6ab075a71f191447bdee4ec5b3aea47, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -16416,6 +17155,10 @@ PrefabInstance:
       value: Grass_Mesh
       objectReference: {fileID: 0}
     - target: {fileID: 6437259164172536785, guid: d6ab075a71f191447bdee4ec5b3aea47, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 6437259164172536785, guid: d6ab075a71f191447bdee4ec5b3aea47, type: 3}
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
@@ -16426,6 +17169,10 @@ PrefabInstance:
     - target: {fileID: 6936935737623504309, guid: d6ab075a71f191447bdee4ec5b3aea47, type: 3}
       propertyPath: m_Name
       value: Grass Patch 01
+      objectReference: {fileID: 0}
+    - target: {fileID: 6936935737623504309, guid: d6ab075a71f191447bdee4ec5b3aea47, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 6936935737623504309, guid: d6ab075a71f191447bdee4ec5b3aea47, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -16490,6 +17237,10 @@ PrefabInstance:
     - target: {fileID: 2566127710829129050, guid: 7b905a349de325449a65c91a1569e235, type: 3}
       propertyPath: m_Name
       value: HescoBarrier (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2566127710829129050, guid: 7b905a349de325449a65c91a1569e235, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 2566127710829129050, guid: 7b905a349de325449a65c91a1569e235, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -16567,6 +17318,10 @@ PrefabInstance:
       value: HescoBarrier (20)
       objectReference: {fileID: 0}
     - target: {fileID: 2566127710829129050, guid: 7b905a349de325449a65c91a1569e235, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 2566127710829129050, guid: 7b905a349de325449a65c91a1569e235, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -16630,6 +17385,10 @@ PrefabInstance:
     - target: {fileID: 6267825749664215762, guid: cf3113fcbc4dc8842b0ad044a83b9a12, type: 3}
       propertyPath: m_Name
       value: Cargo Container (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6267825749664215762, guid: cf3113fcbc4dc8842b0ad044a83b9a12, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 6267825749664215762, guid: cf3113fcbc4dc8842b0ad044a83b9a12, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -16765,6 +17524,10 @@ PrefabInstance:
       value: Sand Bad V1 (2)
       objectReference: {fileID: 0}
     - target: {fileID: 3447354655541262701, guid: e0c0c4ae28e8be448b3851ce7ea656c9, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 3447354655541262701, guid: e0c0c4ae28e8be448b3851ce7ea656c9, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
@@ -16784,7 +17547,7 @@ GameObject:
   - component: {fileID: 2134111169}
   - component: {fileID: 2134111171}
   - component: {fileID: 2134111170}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Plane006
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16865,7 +17628,6 @@ Transform:
 SceneRoots:
   m_ObjectHideFlags: 0
   m_Roots:
-  - {fileID: 963194228}
   - {fileID: 705507995}
   - {fileID: 2102659865}
   - {fileID: 1354053447}
@@ -16877,3 +17639,4 @@ SceneRoots:
   - {fileID: 395631069}
   - {fileID: 1245271595}
   - {fileID: 402929055}
+  - {fileID: 987983217}
